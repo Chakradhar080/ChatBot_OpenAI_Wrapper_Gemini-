@@ -85,7 +85,7 @@ Since memory is stored in memory.json, the bot will remember previous conversati
 
 .gitignore excludes memory.json and sensitive files.
 
-📌 Future Improvements
+**📌 Future Improvements**
 
 🌐 Add Streamlit frontend for user-friendly chat UI
 
