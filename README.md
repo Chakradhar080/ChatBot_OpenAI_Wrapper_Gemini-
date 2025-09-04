@@ -16,13 +16,21 @@ It demonstrates how to integrate OpenAI models into a backend API while keeping 
 🔒 Secure API key management using .env
 
 **📂 Project Structure**
+
 ChatBot_OpenAI_Wrapper_Gemini-/
+
 │── app.py                # FastAPI backend
+
 │── config.py             # API key / config management
+
 │── system_prompt.txt     # Custom chatbot instructions
+
 │── memory.json           # Persistent chat history (auto-created)
+
 │── requirements.txt      # Python dependencies
+
 │── .env                  # API key (ignored in Git)
+
 │── .gitignore            # Ignore sensitive/unnecessary files
 
 **🛠️ Setup & Installation**
